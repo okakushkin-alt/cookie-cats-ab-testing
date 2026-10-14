@@ -1,0 +1,9 @@
+# Исходные данные
+*.csv
+
+# Python и Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Секреты и настройки
+.env
